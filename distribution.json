@@ -392,7 +392,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 418698536,
-            "url": "https://raw.githubusercontent.com/pixelmon-masters/PixelmonMasters-distro/main/servers/PixelmonMasters-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.11-universal.jar",
+            "url": "https://github.com/pixelmon-masters/PixelmonMasters-distro/raw/main/servers/PixelmonMasters-1.16.5/forgemods/required/Pixelmon-1.16.5-9.1.11-universal.jar?download=",
             "MD5": "0bb7d4a2daf72158d550afd54d5a16d1"
           }
         },
