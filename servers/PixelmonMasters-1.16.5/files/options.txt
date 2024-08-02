@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","file/1.16.5 oCd_V 1.5-RESTORATION! 2.4.zip","file/Pixelmon Johto 4.0.2 Resource Pack.zip","file/Pixelmon-Johto-4.0.2-Music-Pack.zip","file/VanillaTweaks_r654356_MC1.16.x.zip"]
