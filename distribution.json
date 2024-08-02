@@ -11,7 +11,7 @@
       "id": "PixelmonMasters-1.16.5",
       "name": "PixelmonMasters (Minecraft 1.16.5)",
       "description": "PixelmonMasters Running Minecraft 1.16.5 (Forge v36.2.34)",
-      "icon": null,
+      "icon": "https://github.com/pixelmon-masters/PixelmonMasters-distro/raw/main/icon.png",
       "version": "1.0.0",
       "address": "jkys.kr",
       "minecraftVersion": "1.16.5",
